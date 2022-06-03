@@ -18,11 +18,10 @@ The user who helps will be potraid as a hero the more he helps more points will 
 * Share your achievements points, level and tiers on different social platform like Facebook, Instagram, Twitter etc
 
 ## CONTACT
-ikram.khan0762@gmail.com<br>
-ikram.khan32@yahoo.com<br><br>
+taimur.ahmad2016@gmail.com<br>
 
-+92 300 584 961 3<br>
-+92 341 938 728 3
+
+
 
 ## Demo Version
 Ehelp demo __version 0.0.1__ is live and available for testing it contain all the features listed above some others are under development <br>
